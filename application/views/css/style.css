@@ -1,0 +1,187 @@
+#professionnel {
+    display: none;
+}
+.debut {
+    float:left;
+}
+
+.fin {
+    float:right;
+}
+
+
+
+body{
+    //background-image: url(../img/fond.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#particulier{
+    border-radius: 4px;
+}
+
+.navbar-right {
+    margin-right:0px;
+}
+
+.navbar-default {
+    background-color: rgba(0,0,0,0.5);
+    padding-right:3em;
+    border:none;
+
+
+}
+
+.navbar-default .navbar-nav > li > a  {
+    color:white;
+    line-height:3.5em;
+}
+
+.navbar-default .navbar-nav > li > a:hover  {
+    color:brown;
+    background-color: rgba(255,255,255,0.3);
+}
+
+.nav {
+    text-height: 5em;
+}
+
+.navbar-nav img {
+    margin-left:2em;
+}
+
+.container {
+
+    margin-top:4em;
+}
+
+.container h1 {
+    color:black;
+    margin-bottom:1em;
+}
+
+.connect, .bloc, .affichage {
+    background-color: rgba(0,0,0,0.5);
+}
+
+footer {
+    position: fixed;
+    bottom:0px;
+    margin-top:2em;
+    text-align:center;
+    bottom: 0;
+
+}
+
+
+
+.container a {
+    color:brown;
+}
+
+.container input {
+    margin-bottom: 1em;
+}
+
+
+
+#creneaux td {
+    border-bottom: 1px solid black;
+    width: 200px;
+    height: 50px;
+}
+#creneaux td:first-child{
+    width: 50px;
+
+}
+#creneaux tr:nth-child(2n) > td:first-child {
+    border-bottom: 0px solid black;
+
+}
+.m1{
+    background-color: red;
+}
+.m2{
+    background-color: green;
+}
+
+.row {
+    margin-right: 0px; 
+    margin-left: 0px; 
+}
+
+.affichage {
+    width:96%;
+    color:white;
+    margin: 2% 2% 2% 2%;
+
+}
+
+.progress {
+    margin-bottom:0px;
+    color:black;
+    background-color: rgba(255,255,255,0.6);
+    height:2.5em;
+    margin-top:0.5em;
+}
+
+.progress-bar, .progress {
+    line-height:2.5em;
+    font-size: 1.1em;
+    font-family: serif;
+}
+
+#contact{
+    margin: 5em;
+}
+
+#contact div {
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+#contact h2 {
+    margin-bottom: 2.2em;
+}
+
+.partenaire  {
+    text-align:center;
+    margin-top:5em;
+    margin-bottom:5em;
+}
+
+.deco {
+    padding-top:2em;
+}
+
+.deco a {
+       color:white;
+}
+#div_result{
+     margin-top: -21em;
+}
+.table-bordered{
+    width: 40%;
+}
+
+
+
+}
+h2, a, href {
+    position: absolute;
+    color: white;
+    padding: 25%;
+    top: -25%;
+    z-index: 10;
+}
+article{
+     position: relative;
+}
+.margin {
+    margin-top: 50%;
+}
