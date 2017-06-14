@@ -71,7 +71,7 @@
 				<div class="header-text">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h3 class="light white">Fournisseur d'arnaque et de bon plan.</h3>
+							<h3 class="light white">Fournisseur de films.</h3>
 							<h1 class="white typed">Bienvenue sur DEEVEEDAYS !!!!</h1>
 							<span class="typed-cursor">|</span>
 						</div>
@@ -189,13 +189,13 @@
 						</div>
 						<div class="item text-center">
 							<i class="icon fa fa-twitter"></i>
-							<h4 class="white light">Ne raté jamais un offre promotionel ssur notre bouquet spécial film pour adult :)</h4>
-							<h4 class="light-white light">#porn #bukkake #mercijackyetmichel</h4>
+							<h4 class="white light">deeveedays</h4>
+							<h4 class="light-white light">#film #moovie</h4>
 						</div>
 						<div class="item text-center">
 							<i class="icon fa fa-twitter"></i>
 							<h4 class="white light">L'actu du top parodie de films.</h4>
-							<h4 class="light-white light">#nanare #arnaque #bank</h4>
+							<h4 class="light-white light">#nanare #arnaque #argent</h4>
 						</div>
 					</div>
 				</div>
@@ -237,7 +237,7 @@
 			<div class="row">
 				<div class="col-sm-6 text-center-mobile">
 					<h3 class="white">louez vite votre premier film !!!</h3>
-					<h5 class="light regular light-white">arnaque et bon plan au rendez-vous.</h5>
+					<h5 class="light regular light-white">Adieux netflix !!!</h5>
 					<a href="#" class="btn btn-blue ripple trial-button">INSCRIPTION</a>
 				</div>
 				<div class="col-sm-6 text-center-mobile">
@@ -261,8 +261,8 @@
 				<div class="col-sm-4 text-right text-center-mobile">
 					<ul class="social-footer">
 						<li><a href="https://www.facebook.com/clement34420?ref=bookmarks"><i class="fa fa-facebook"></i></a></li>
-						<li><a href="https://www.youporn.com"><i class="fa fa-twitter"></i></a></li>
-						<li><a href="https://xhamster.com"><i class="fa fa-google-plus"></i></a></li>
+						<li><a href="www.google.fr"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="www.google.fr"><i class="fa fa-google-plus"></i></a></li>
 						 <a class="nav-item nav-link active" href="<?php echo site_url('admin') ?>">admin <span class="sr-only"></span></a>
 					</ul>
 				</div>
