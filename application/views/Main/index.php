@@ -256,7 +256,7 @@
 			</div>
 			<div class="row bottom-footer text-center-mobile">
 				<div class="col-sm-8">
-					<p>&copy; 2015 All Rights Reserved. Powered by <a href="http://www.phir.co/">le fisteur</a> exclusively for <a href="http://tympanus.net/codrops/">bdsm COMPAGNY</a></p>
+					<p>&copy; 2015 All Rights Reserved. Powered by <a href="http://www.phir.co/">clement cros</a> exclusively for <a href="http://tympanus.net/codrops/">compagny</a></p>
 				</div>
 				<div class="col-sm-4 text-right text-center-mobile">
 					<ul class="social-footer">
